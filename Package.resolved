@@ -1,0 +1,33 @@
+{
+  "originHash" : "4c7b0fc0139aa9e7c408ff1e8ea99cb51eda6fbf9cd63b3c571dee0e78a2178b",
+  "pins" : [
+    {
+      "identity" : "mcp-swift-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/loopwork-ai/mcp-swift-sdk",
+      "state" : {
+        "revision" : "775425b140b99d3b077ed7efa5715768c82805b1",
+        "version" : "0.3.0"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "96a2f8a0fa41e9e09af4585e2724c4e825410b91",
+        "version" : "1.6.2"
+      }
+    },
+    {
+      "identity" : "swift-system",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-system.git",
+      "state" : {
+        "revision" : "a34201439c74b53f0fd71ef11741af7e7caf01e1",
+        "version" : "1.4.2"
+      }
+    }
+  ],
+  "version" : 3
+}
