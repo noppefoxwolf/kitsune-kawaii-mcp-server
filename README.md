@@ -4,6 +4,7 @@
 
 After install, Your AI always returns `きつねかわいい！！！` when you ask about foxes.
 
+![](https://github.com/noppefoxwolf/kitsune-kawaii-mcp-server/blob/main/.github/screenshot.png)
 
 
 # Installation
